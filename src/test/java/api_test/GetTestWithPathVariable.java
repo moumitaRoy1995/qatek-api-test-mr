@@ -13,6 +13,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 
 public class GetTestWithPathVariable {
+    //This is a GET operation with Path Variable
     private static final Logger LOGGER = LogManager.getLogger(GetTestWithPathVariable.class);
 
     @Test
